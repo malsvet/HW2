@@ -1,0 +1,16 @@
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.csproj.AssemblyReference.cache
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.AssemblyInfoInputs.cache
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.AssemblyInfo.cs
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.csproj.CoreCompileInputs.cache
+N:\ШАГ РПО\C#\Text\bin\Debug\net5.0\Text.exe
+N:\ШАГ РПО\C#\Text\bin\Debug\net5.0\Text.deps.json
+N:\ШАГ РПО\C#\Text\bin\Debug\net5.0\Text.runtimeconfig.json
+N:\ШАГ РПО\C#\Text\bin\Debug\net5.0\Text.runtimeconfig.dev.json
+N:\ШАГ РПО\C#\Text\bin\Debug\net5.0\Text.dll
+N:\ШАГ РПО\C#\Text\bin\Debug\net5.0\Text.pdb
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.dll
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\refint\Text.dll
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.pdb
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\Text.genruntimeconfig.cache
+N:\ШАГ РПО\C#\Text\obj\Debug\net5.0\ref\Text.dll
